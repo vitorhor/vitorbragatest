@@ -46,14 +46,7 @@
 
     <footer>
 
-        <b-navbar type="light" variant="light" :sticky="true" class="">
-            <b-navbar-nav class="ml-auto">
-                <b-nav-item>Main</b-nav-item>
-                <b-nav-item>How To Prepare</b-nav-item>
-                <b-nav-item>CDA Interview Questions</b-nav-item>
-                <b-nav-item>Contact Us</b-nav-item>
-            </b-navbar-nav>
-        </b-navbar>
+
 
     </footer>
 

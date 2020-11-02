@@ -1,9 +1,6 @@
 <template>
     <div>
-
-        <p>Login Page</p>
-
-
+        Login Page
     </div>
 </template>
 
