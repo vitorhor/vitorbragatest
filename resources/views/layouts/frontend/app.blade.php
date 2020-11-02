@@ -52,6 +52,7 @@
 
 </div>
 <script src="{{asset('js/app.js')}}"></script>
-
+{!! $facebookPixel !!}
+{!! $googleAnalytics !!}
 </body>
 </html>
